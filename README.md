@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @JohnTNP study in mechanical engineering.
-- 👀 I'd love to apply engineering things in coding.
+- 👀 Love coding.
