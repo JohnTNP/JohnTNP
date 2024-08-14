@@ -6,7 +6,6 @@ Software Engineer
 
 *   🌍  I'm based in Bangkok, Thailand.
 *   ✉️  You can contact me at [sy.tanaphon@gmail.com](mailto:sy.tanaphon@gmail.com)
-*   ⚡  Vim editing style and Dracula colour scheme 🧛🏻‍♂️.
 
 Socials<br>
 <p align="left">
